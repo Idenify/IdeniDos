@@ -14,6 +14,10 @@ git clone https://github.com/Idenify/IdeniDos.git
 <br>
 <b>Start Tool</b>
 <br>
+python IdeniDos.py<br>
+now you can type the Target IP<br>
+and the Target Port<br>
+click "Enter" and the Attack will start!
 <br>
 <br>
 <br>
