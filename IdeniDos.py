@@ -9,7 +9,7 @@ print(Fore.RED + "|   |/ __ |/ __ \ /    \|  \   __<   |  | ")
 print(Fore.RED + "|   / /_/ \  ___/|   |  \  ||  |  \___  | ")	
 print(Fore.RED + "|___\____ |\___  >___|  /__||__|  / ____| ")	
 print(Fore.RED + "               \/    \/     \/    \/      ")     
-print(Fore.GREEN + "IdeniDos")
+print(Fore.GREEN + "IdeniDos v2.0")
 print(Fore.GREEN + "YouTube: Idenify")
 print 
 print 
