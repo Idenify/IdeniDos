@@ -1,4 +1,4 @@
-<b>Hello and welcome to IdeniDos!</b> 
+<b>Hello and welcome to IdeniDos 2.0!</b> 
 <br>
 <br>
 IdeniDos is a powerfull DDos tool simple to use for everyone!
