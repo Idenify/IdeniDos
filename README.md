@@ -12,7 +12,7 @@ IdeniDos is a powerfull DDos tool simple to use for everyone!
 git clone https://github.com/Idenify/IdeniDos.git
 <br>
 <br>
-Open file with Texteditor type by | host = "IP" | your Target IP 
+<b>Start Tool</b>
 <br>
 <br>
 <br>
