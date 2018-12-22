@@ -24,10 +24,11 @@ git clone https://github.com/Idenify/IdeniDos.git
 <br>
 <b>Start Tool</b>
 <br>
-python IdeniDos.py<br>
-now you can type the Target IP<br>
-and the Target Port<br>
-click "Enter" and the Attack will start!
+cd IdeniDos
+bash menu.sh
+now you can choice 2 options
+1.Scanner to find IP 
+2.IdeniDos to DDos the IP
 <br>
 <br>
 <br>
