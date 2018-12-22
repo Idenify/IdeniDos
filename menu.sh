@@ -1,12 +1,12 @@
 PS3='Please enter your choice: '
 echo "                           "
-options=("Scanner" "IdeniDos" "Quit")
+options=("IP Finder" "IdeniDos" "Quit")
 select opt in "${options[@]}"
 do
     case $opt in
-        "Scanner")
-            echo -e "\e[32m "you chose Scanner" \e[0m"
-python Scanner.py
+        "IP Finder")
+            echo -e "\e[32m "you chose Ip Finder" \e[0m"
+python IPFINDER.py
             ;;
         "IdeniDos")
             echo -e "\e[32m "you chose IdeniDos"  \e[0m"
