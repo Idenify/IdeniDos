@@ -24,11 +24,11 @@ git clone https://github.com/Idenify/IdeniDos.git
 <br>
 <b>Start Tool</b>
 <br>
-cd IdeniDos
-bash menu.sh
-now you can choice 2 options
-1.Scanner to find IP 
-2.IdeniDos to DDos the IP
+cd IdeniDos<br>
+bash menu.sh<br>
+now you can choice 2 options<br>
+1.IP Finder to find IP <br>
+2.IdeniDos to DDos the IP<br>
 <br>
 <br>
 <br>
