@@ -24,11 +24,22 @@ git clone https://github.com/Idenify/IdeniDos.git
 <br>
 <b>Start Tool</b>
 <br>
-cd IdeniDos<br>
-bash menu.sh<br>
-now you can choice 2 options<br>
-1.IP Finder to find IP <br>
-2.IdeniDos to DDos the IP<br>
+<br>
+<b>KALI LINUX<b>
 <br>
 <br>
+▶ cd IdeniDos<br>
+▶ bash menu.sh<br>
+▶ now you can choice 2 options<br>
+▶ 1.IP Finder to find IP <br>
+▶ 2.IdeniDos to DDos the IP<br>
 <br>
+<br>
+<b>TERMUX<b>
+<br>  
+<br>
+▶ pkg install python
+▶ pkg install python2 
+▶ pip2 install colorama
+▶ cd IdeniDos
+▶ bash menu.sh  
