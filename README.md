@@ -25,7 +25,7 @@ git clone https://github.com/Idenify/IdeniDos.git
 <b>Start Tool</b>
 <br>
 <br>
-<b>KALI LINUX<b>
+<b>KALI LINUX ▼<b>
 <br>
 <br>
 ▶ cd IdeniDos<br>
@@ -35,7 +35,7 @@ git clone https://github.com/Idenify/IdeniDos.git
 ▶ 2.IdeniDos to DDos the IP<br>
 <br>
 <br>
-<b>TERMUX<b>
+<b>TERMUX ▼<b>
 <br>  
 <br>
 ▶ pkg install python<br>
