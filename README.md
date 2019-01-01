@@ -38,8 +38,8 @@ git clone https://github.com/Idenify/IdeniDos.git
 <b>TERMUX<b>
 <br>  
 <br>
-▶ pkg install python
-▶ pkg install python2 
-▶ pip2 install colorama
-▶ cd IdeniDos
-▶ bash menu.sh  
+▶ pkg install python<br>
+▶ pkg install python2 <br>
+▶ pip2 install colorama<br>
+▶ cd IdeniDos<br>
+▶ bash menu.sh <br> 
