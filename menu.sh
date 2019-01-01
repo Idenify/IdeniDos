@@ -6,11 +6,11 @@ do
     case $opt in
         "IP Finder")
             echo -e "\e[32m "you chose Ip Finder" \e[0m"
-python IPFINDER.py
+python2 IPFINDER.py
             ;;
         "IdeniDos")
             echo -e "\e[32m "you chose IdeniDos"  \e[0m"
-python IdeniDos.py
+python2 IdeniDos.py
             ;;
         "Quit")
             break
